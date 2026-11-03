@@ -1,10 +1,10 @@
 
 # Tiny Tapeout project information
 project:
-  title:        ""      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  title:        "FControl"      # Project title
+  author:       "Stary_dragonsharkwof"      # Your name
+  discord:      "stary_wolfshark"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "Digital controller that drives four servos (ears, jaw, eyelids) of an animatronic mask via hardware PWM, with 8 selectable poses and ARM/ESTOP safety gating."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
